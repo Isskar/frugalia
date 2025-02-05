@@ -6,5 +6,6 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "mypy>=1.15.0",
+    "pytest>=8.3.4",
     "ruff>=0.9.4",
 ]
